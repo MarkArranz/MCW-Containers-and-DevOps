@@ -1,3 +1,6 @@
+> NOTE: this is a temporary fork until our team's PR is pushed into the MCW repository noted in the following link. Once that PR is done this will be removed and you should go to that folder for the work. This is temporary for the team to execute the lab. 
+https://github.com/Microsoft/MCW-Containers-and-DevOps
+
 # Containers and DevOps
 
 Fabrikam Medical Conferences provides conference web site services, tailored to the medical community. Their business has grown and the management of many instances of the code base and change cycle per tenant has gotten out of control.
